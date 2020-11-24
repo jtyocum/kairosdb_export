@@ -1,0 +1,4 @@
+[DEFAULT]
+kdb_url = https://YOUR_KDB_SERVER/api/v1/datapoints/query
+metrics = metric1,metric2,metric3 
+tags = tag1,tag2,tag3 
